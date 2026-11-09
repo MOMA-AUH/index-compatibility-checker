@@ -9,7 +9,7 @@ No installation, account, or server is required: download `index-compatibility-c
 1. Open `index-compatibility-checker.html`.
 2. Paste the index list from Excel, CSV, or a text file.
 3. Choose a distance rule and threshold.
-4. Select **Validate & analyse**.
+4. Select **Validate and analyze**.
 5. Review flagged pairs or download the CSV report.
 
 The pasted list may contain:
